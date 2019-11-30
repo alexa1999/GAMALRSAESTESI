@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1575046144 source:d:\anel\abstracta\gamalp\main.cpp
+	<iostream>
+	"Gamal.h"
+
+1574796365 d:\anel\abstracta\gamalp\include\gamal.h
+	"Func.h"
+
+1574667554 d:\anel\abstracta\gamalp\include\lfsr.h
+	"RC4.h"
+
+1574667553 d:\anel\abstracta\gamalp\include\rc4.h
+	"Func.h"
+
+1574667554 d:\anel\abstracta\gamalp\include\func.h
+	<bitset>
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<vector>
+	<fstream>
+	<sstream>
+	<NTL/ZZ.h>
+
+1574667553 source:d:\anel\abstracta\gamalp\src\func.cpp
+	"Func.h"
+
+1575046470 source:d:\anel\abstracta\gamalp\src\gamal.cpp
+	"Gamal.h"
+
+1574667553 source:d:\anel\abstracta\gamalp\src\lfsr.cpp
+	"LFSR.h"
+
+1574667553 source:d:\anel\abstracta\gamalp\src\rc4.cpp
+	"RC4.h"
+
